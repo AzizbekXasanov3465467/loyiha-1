@@ -101,13 +101,14 @@ display: none;
     flex-direction: column;
     width: 100%;
    justify-content: center;
-margin-left: -35px;
+margin-left: -25px;
 
 
   
 }
  .nav-ul ul.open{
     display: flex;
+   
 
 
 }
